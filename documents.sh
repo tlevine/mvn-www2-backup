@@ -7,5 +7,6 @@ while read url; do
     cd documents
     wget "${url}";
   )
+  sleep 2s
 done < spreadsheets/all.csv 
 
