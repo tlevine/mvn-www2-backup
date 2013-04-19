@@ -3,6 +3,7 @@ set -e
 
 # Download the pdfs
 while read url; do
+  echo $url
   test -f "documents/$(echo "$url" | cut -d/ -f7)" && continue
   (
     cd documents
