@@ -1,6 +1,4 @@
 ## Downloading old documents
-The old MVN permit applications site is now at www**2**.
-
 You can see all the previous permit applications from Scott's
 manual spreadsheet parsings here,
 except for a couple that went missing.
